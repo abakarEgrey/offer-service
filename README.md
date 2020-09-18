@@ -50,3 +50,5 @@ For cancelling an offer timeout send a request like this one :
 	
 	Cancel the timeout by sending the following request
 	HTTP GET : http://localhost:8080/offers/cancel/newOfferId
+	
+	Test Jenkins
